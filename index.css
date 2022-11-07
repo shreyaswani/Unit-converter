@@ -87,3 +87,14 @@ h3{
  -webkit-background-clip: text;
  -webkit-text-fill-color: transparent;
 }
+@media only screen and (max-width:600px) {
+  #headingg{
+font-size: 20px;
+}
+}
+@media only screen and (max-width:600px) {
+  #container{
+width: 80%;
+  height: 35vh;
+}
+}
